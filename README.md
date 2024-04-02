@@ -18,3 +18,11 @@ This repository contains various types of resources, including but not limited t
 - Best Practices
 
 Feel free to explore the repository and contribute your own resources to help enrich the community.
+
+## Contribution
+
+We welcome contributions from everyone. If you have resources that you think would be beneficial for others, feel free to add them.
+
+To contribute, simply create a pull request with your additions or changes. After a review, if your contribution is found to be beneficial, it will be merged into the main branch.
+
+Thank you for your interest in our DBMS resources repository!
